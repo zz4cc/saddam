@@ -9,7 +9,6 @@ DDoS Tool that supports:
 
 Read more about DDoS Amplification Attacks [here](http://www.pythonforpentesting.com/2015/02/ddos-amplification-attacks.html)
 
-Donation would be much appreciated: 1Gi5Rpz5RBEUpGknSwyRgqzk7b5bQ7Abp2
 # Requirements
  * OS Supports raw sockets
  * Python 2.7
